@@ -1,0 +1,1 @@
+BEGIN {if($3<70) print $2} {print} END {print "===========END=========="}
