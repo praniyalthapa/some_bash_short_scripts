@@ -1,0 +1,2 @@
+mydate=$(date)
+echo $mydate
